@@ -5,6 +5,7 @@
     <a href="https://github.com/hyper-ub/saber/commits/master"><img src="https://img.shields.io/github/last-commit/hyper-ub/saber/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
     <a href="https://github.com/hyper-ub/saber/stargazers"><img src="https://img.shields.io/github/stars/hyper-ub/saber?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
     <a href="https://github.com/hyper-ub/saber/network/members"><img src="https://img.shields.io/github/forks/hyper-ub/saber?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kontol98/saber_bot/tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 </p>
 
 # Saber bot - telegram
